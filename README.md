@@ -9,7 +9,7 @@
 Öncelikle projeyi clone'layın.
 
 ```bash
-git clone https://github.com/elaksc/kodluyoruzilkrepo2.git
+git clone https://github.com/elaksc/kodluyoruzilkrepo.git
 ```
 
 ## Usage
